@@ -25,5 +25,9 @@
 <p>An open-source code editor primarily used to correct and repair cloud and web applications coding errors. </p>
 <li>Abstraction: </li>
 <p>A technique for arranging complexity of computer systems. </p>
+<li>Reset Stylesheet: </li>
+<p>Reduces browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on.</p>
+<li>User Agent Stylesheet: </li>
+<p>Basic style sheets that give default styles to any document.</p>
 </OL>
 
