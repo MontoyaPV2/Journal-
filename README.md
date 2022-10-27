@@ -29,5 +29,9 @@
 <p>Reduces browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on.</p>
 <li>User Agent Stylesheet: </li>
 <p>Basic style sheets that give default styles to any document.</p>
+<li>While loop: </li> 
+<p>Can execute a set of statements as long as a condition is true. </p>
+<li>For loop: </li>
+<p>A control flow statement for specifying iteration, which allows code to be executed repeatedly.</p>
 </OL>
 
